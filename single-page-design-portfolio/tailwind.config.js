@@ -35,6 +35,14 @@ module.exports = {
 
       borderRadius: {
         "4-xl": "28px"
+      },
+
+      backgroundImage: {
+        "work1" : "url(./assets/work1.png)",
+        "work2" : "url(./assets/work2.png)",
+        "work3" : "url(./assets/work3.png)",
+        "work4" : "url(./assets/work4.png)",
+        "work5" : "url(./assets/work5.png)"
       }
     },
   },
