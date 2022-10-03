@@ -6,7 +6,6 @@ import grid4 from "../../assets/grid4.png"
 import grid5 from "../../assets/grid5.png"
 import grid6 from "../../assets/grid6.png"
 import amy from "../../assets/amy.png"
-import MyWork from './MyWork'
 
 export default function Hero() {
   return (
@@ -53,8 +52,6 @@ export default function Hero() {
             <a href='localhost:3000' className='bg-myPeach flex justify-center w-[176px] pt-4 pb-4 text-myWhite rounded-4-xl text-xs font-bold hover:bg-myOrange transition-all md:w-[228px]'>Free Consultation</a>
         </div>
         </section>
-
-        <MyWork/>
     </div>
   )
 }
